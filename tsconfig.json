@@ -6,7 +6,7 @@
     "outDir": "./dist",
     "strict": true,
     "skipLibCheck": true,
-    "allowJs": false,
+    "allowJs": true,
     "forceConsistentCasingInFileNames": true,
   },
   "include": ["**/*.ts","**/*.js"],
